@@ -1,0 +1,11 @@
+https://github.com/jogaq/Yonsai0624.git
+깃허브 - 소스를 업로드하고 타인과 공유하는 공간
+
+절차
+1. Github 가입
+2. Github 저장소 생성
+3. Sourcetree 설치
+4. Clone : 원격 저장소에 업로드할 로컬 저장소 생성
+5. Add : 스테이지 올리기 - 업로드할 내용물
+6. Commit : 커밋
+7. Push : 위에서 커밋한 내용물을 원격 저장소에 보낸다.
